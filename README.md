@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sachin Arya.</h1>
 <h3 align="center">Software Engineer from India.</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **AWS**
 
 <h3 align="left">You can find me everywhere:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/sachin-arya-55b8a9199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karina-olenina" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karina-olenina" height="30" width="40" /></a>
 <a href="https://twitter.com/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karina-olenina" height="30" width="40" /></a>
+<a href="https://instagram.com/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karina-olenina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
