@@ -3,20 +3,16 @@
 <h3 align="center">Software Engineer from India.</h3>
 
 - 🌱 I’m currently learning **React Native**
-<div>
+
 <h3 align="left">You can find me everywhere</h3>
-</div>
 <p align="left">
 <a href="https://in.linkedin.com/in/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karina-olenina" height="30" width="40" /></a>
 <a href="https://twitter.com/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karina-olenina" height="30" width="40" /></a>
 <a href="https://instagram.com/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karina-olenina" height="30" width="40" /></a>
 <a href="https://youtube.com/@joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karina-olenina" height="30" width="40" /></a>
-  <p>@joinsachinarya</p>
 </p>
 
-<div>
-<h3 align="left">Languages and Tools </h3>
-</div>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -31,5 +27,4 @@
 <img src="https://cdn.brandfetch.io/idMNEQh7-0/theme/dark/symbol.svg?c=1bx1740683878374id64Mup7acAgQTDKso&t=1687779047045" alt="parcel" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/354161/parcel-icon.svg" alt="parcel" width="40" height="40"/>
-<p>...</p>
 </p>
