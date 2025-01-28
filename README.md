@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **React Native**
 <div>
 <h3 align="left">You can find me everywhere</h3>
-<small align="right">or just search @joinsachinarya, I might be there</small>
 </div>
 <p align="left">
 <a href="https://in.linkedin.com/in/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karina-olenina" height="30" width="40" /></a>
@@ -16,7 +15,6 @@
 
 <div>
 <h3 align="left">Languages and Tools </h3>
-<small>i know more btw:)</small>
 </div>
 <p align="left"> 
 
