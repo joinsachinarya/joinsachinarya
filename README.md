@@ -3,8 +3,10 @@
 <h3 align="center">Software Engineer from India.</h3>
 
 - 🌱 I’m currently learning **React Native**
-
-<h3 align="left">You can find me everywhere <span style="font-size: 0.7em;">or just search @joinsachinarya, I might be there</span></h3>
+<div>
+<h3 align="left">You can find me everywhere</h3>
+<small>or just search @joinsachinarya, I might be there</small>
+</div>
 <p align="left">
 <a href="https://in.linkedin.com/in/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karina-olenina" height="30" width="40" /></a>
 <a href="https://twitter.com/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karina-olenina" height="30" width="40" /></a>
@@ -12,7 +14,10 @@
 <a href="https://youtube.com/@joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karina-olenina" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools <small>i know more btw:)</small></h3>
+<div>
+<h3 align="left">Languages and Tools </h3>
+<small>i know more btw:)</small>
+</div>
 <p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
