@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-<h3 align="left">You can find me everywhere <small>or just search @joinsachinarya, I might be there</small></h3>
+<h3 align="left">You can find me everywhere <span style="font-size: 0.7em;">or just search @joinsachinarya, I might be there</span></h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karina-olenina" height="30" width="40" /></a>
 <a href="https://twitter.com/joinsachinarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karina-olenina" height="30" width="40" /></a>
