@@ -24,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://cdn.brandfetch.io/idMNEQh7-0/theme/dark/symbol.svg?c=1bx1740683878374id64Mup7acAgQTDKso&t=1687779047045" alt="parcel" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/354161/parcel-icon.svg" alt="parcel" width="40" height="40"/>
 </p>
