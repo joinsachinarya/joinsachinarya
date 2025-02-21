@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Arya.</h1>
 
-
 <h3 align="center">Software Engineer from India.</h3>
 
 - 🌱 I’m currently learning **React Native**
