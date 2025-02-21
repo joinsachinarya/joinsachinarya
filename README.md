@@ -29,25 +29,3 @@
 <img src="https://www.svgrepo.com/show/354161/parcel-icon.svg" alt="parcel" width="40" height="40"/>
 </p>
 
-
-
-
-
-
-<h3 align="left">Contributions</h3>
-
-###
-<img src="https://raw.githubusercontent.com/joinsachinarya/joinsachinarya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">Stats</h3>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=joinsachinarya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<br>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joinsachinarya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
