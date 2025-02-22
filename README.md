@@ -29,3 +29,8 @@
 <img src="https://www.svgrepo.com/show/354161/parcel-icon.svg" alt="parcel" width="40" height="40"/>
 </p>
 
+
+<h3 align="left">Stats</h3>
+<p align="left"> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joinsachinarya&theme=highcontrast&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
+
