@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Web3 & React Native**
+- 🌱 I’m currently learning **Web3 & React Native**🧑‍💻
 
 <h3 align="left">You can find me everywhere📱</h3>
 <p align="left">
@@ -32,5 +32,5 @@
 
 <h3 align="left">Stats⚡</h3>
 <p align="left"> 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joinsachinarya&theme=transparent&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joinsachinarya&theme=transparent&hide_border=true&border_radius=0&ring=FFFFFF80&sideLabels=FFFFFF&stroke=FFFFFF80&fire=FF7600&currStreakNum=FF7600&currStreakLabel=FFFFFF&dates=FFFFFF80&excludeDaysLabel=FFFFFF&sideNums=20C20ED2" alt="GitHub Streak" /></a>
 
