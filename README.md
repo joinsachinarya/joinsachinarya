@@ -29,9 +29,3 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/354161/parcel-icon.svg" alt="parcel" width="40" height="40"/>
 </p>
-
-
-<h3 align="left">Stats⚡</h3>
-<p align="left"> 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joinsachinarya&theme=transparent&hide_border=true&border_radius=0&ring=FFFFFF80&sideLabels=FFFFFF&stroke=FFFFFF80&fire=FF7600&currStreakNum=FF7600&currStreakLabel=FFFFFF&dates=FFFFFF80&excludeDaysLabel=FFFFFF&sideNums=20C20ED2" alt="GitHub Streak" /></a>
-
