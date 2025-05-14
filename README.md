@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer from India</h3>
 
 <h3 align="left">You can find me everywhere📱</h3>
-<sub><sup>Super active on X (Twitter)</sup></sub>
+<!-- <sub><sup>Super active on X (Twitter)</sup></sub> -->
 <p align="left">
 <a href="mailto:joinsachinarya@gmail.com" rel="noopener noreferrer"  target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="32" width="32" /></a>
 <a href="https://joinsachinarya.github.io/" rel="noopener noreferrer"  target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" alt="karina-olenina" height="30" width="30" /></a>
